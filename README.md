@@ -5,7 +5,7 @@ Necessary netflix.csv file for the codes to work normally and the algorithm to r
 
 The Matplolib library was used to develop the data analysis of this dataset, so that its response method could be visual through graphs.
 
-##More information in the documentation below:
+## More information in the documentation below:
 
 Dataset documentation: https://www.kaggle.com/datasets/yaminh/netflix-dataset-for-analysis 
 
